@@ -1,3 +1,4 @@
+package br.org.dio.conta;
 
 public interface IConta {
 	
